@@ -1,0 +1,1 @@
+Created a dynamic Card which shows what is in stock or not by using react components.
